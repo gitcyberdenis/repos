@@ -1,0 +1,15 @@
+C:\Users\volos\RiderProjects\Lab4_Pr\Lab4_Pr\bin\Debug\net7.0\Lab4_Pr.exe
+C:\Users\volos\RiderProjects\Lab4_Pr\Lab4_Pr\bin\Debug\net7.0\Lab4_Pr.deps.json
+C:\Users\volos\RiderProjects\Lab4_Pr\Lab4_Pr\bin\Debug\net7.0\Lab4_Pr.runtimeconfig.json
+C:\Users\volos\RiderProjects\Lab4_Pr\Lab4_Pr\bin\Debug\net7.0\Lab4_Pr.dll
+C:\Users\volos\RiderProjects\Lab4_Pr\Lab4_Pr\bin\Debug\net7.0\Lab4_Pr.pdb
+C:\Users\volos\RiderProjects\Lab4_Pr\Lab4_Pr\obj\Debug\net7.0\Lab4_Pr.csproj.AssemblyReference.cache
+C:\Users\volos\RiderProjects\Lab4_Pr\Lab4_Pr\obj\Debug\net7.0\Lab4_Pr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volos\RiderProjects\Lab4_Pr\Lab4_Pr\obj\Debug\net7.0\Lab4_Pr.AssemblyInfoInputs.cache
+C:\Users\volos\RiderProjects\Lab4_Pr\Lab4_Pr\obj\Debug\net7.0\Lab4_Pr.AssemblyInfo.cs
+C:\Users\volos\RiderProjects\Lab4_Pr\Lab4_Pr\obj\Debug\net7.0\Lab4_Pr.csproj.CoreCompileInputs.cache
+C:\Users\volos\RiderProjects\Lab4_Pr\Lab4_Pr\obj\Debug\net7.0\Lab4_Pr.dll
+C:\Users\volos\RiderProjects\Lab4_Pr\Lab4_Pr\obj\Debug\net7.0\refint\Lab4_Pr.dll
+C:\Users\volos\RiderProjects\Lab4_Pr\Lab4_Pr\obj\Debug\net7.0\Lab4_Pr.pdb
+C:\Users\volos\RiderProjects\Lab4_Pr\Lab4_Pr\obj\Debug\net7.0\Lab4_Pr.genruntimeconfig.cache
+C:\Users\volos\RiderProjects\Lab4_Pr\Lab4_Pr\obj\Debug\net7.0\ref\Lab4_Pr.dll
